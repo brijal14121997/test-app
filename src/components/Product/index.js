@@ -20,7 +20,7 @@ const Product = () => {
             <img
               src="/images/product2.png"
               alt="product2"
-              className="h-[310px]"
+              className="h-[315px]"
             />
             <img
               src="/images/product3.png"
